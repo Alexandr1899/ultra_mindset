@@ -1,0 +1,35 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    width: 1300px;
+    text-align: justify;
+    margin-left: 100px;
+    line-height: 1.5;
+}
+p {text-indent: 30px;
+    font-size: 16px;
+    line-height: 1.5;}
+.mind_of_trevis {
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    cursor: pointer;
+}
+.head-text, .installations_head, .examples-title {
+    text-align: center;
+}
+.examples-title {
+    color: rgb(46, 46, 153);
+}
+.installations_head {
+    color: cornflowerblue;
+}
+img {margin-left: 150px;
+margin-right: 100px;}
+.ft-img {
+    display: flex;
+    flex-direction: row;
+}
+.example-about {
+    text-indent: 40px;
+}
